@@ -51,7 +51,7 @@ The goal is to simplify financial analysis and make personal or business finance
 - Enables drill-down analysis for individual user profiling and custom insights.
 
 ## 🔗 Important links
-- [Live PowerBI dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNDJkZGE0OTktNzQ0OS00YTA2LTlmYWItMmE1MGJhMTM5MDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://public.tableau.com/views/MitronBank-AnalyticalInsights/LandingPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- [Live Tableau dashboard](https://public.tableau.com/views/MitronBank-AnalyticalInsights/LandingPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
