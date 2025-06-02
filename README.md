@@ -15,7 +15,7 @@ This project addresses that gap by:
 - Offering actionable insights to support smarter financial decisions.
 The goal is to simplify financial analysis and make personal or business finances more transparent and manageable.
 
-## 📌 Key Terms
+## 🔑 Key Terms
 - Demographics: User attributes such as age group, gender, and marital status, used to segment financial trends.
 - Income Analysis: Visual representation of income distribution across users, categorized into income ranges and frequency.
 - Spend Analysis: Breakdown of expenditure patterns over time and by category (e.g., travel, groceries, utilities).
@@ -23,30 +23,29 @@ The goal is to simplify financial analysis and make personal or business finance
 - KPIs (Key Performance Indicators): High-level metrics like total users, average income, total spend, and savings rate, offering quick financial health snapshots.
 
 ## 💻 Tech Stack
-- PowerBi Desktop: To create visuals from rew data.
-- Excel & Power Query: For data preprocessing.
-- DAX language: To create measures.
-- DAX studio: For optimizing the report.
+- Tableau Desktop: To create visuals from rew data.
+- Excel: For data preprocessing.
+- SQL: For loading & preprocessing data.
 
 ## 📈 Insights
-#### Demographics
+#### 1. Demographics
 - Shows the distribution of users by gender, age group, and relationship status.
 - Identifies key user segments (e.g., majority being single and aged 25–34).
 - Useful for understanding how financial behavior varies across demographic categories.
-#### Spend Analysis 1
+#### 2. Spend Analysis 1
 - Visualizes monthly spending trends across different users.
 - Highlights seasonal spending patterns (e.g., peaks in festive months).
 - Breaks down category-wise spending (e.g., highest expenses in groceries or utilities).
 - Helps spot overspending periods or categories needing budget control.
-#### Spend Analysis 2
+#### 3. Spend Analysis 2
 - Displays a category-based analysis of average spending per user.
 - Compares total vs. average spends to assess outliers or high-spending users.
 - Useful for detecting which categories are consistently high-impact on budgets.
-#### Income Analysis
+#### 4. Income Analysis
 - Shows income distribution among users via ranges (e.g., <20K, 20K–50K, etc.).
 - Identifies major income brackets where most users fall.
 - Helps determine earning potential of the user base and segment financial behavior accordingly.
-#### Detailed View
+#### 5. Detailed View
 - A comprehensive tabular view of each user's financial data.
 - Displays columns like income, total spend, savings, and category-specific expenses.
 - Enables drill-down analysis for individual user profiling and custom insights.
