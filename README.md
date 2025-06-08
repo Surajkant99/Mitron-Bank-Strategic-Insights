@@ -52,6 +52,7 @@ The goal is to simplify financial analysis and make personal or business finance
 
 ## 🔗 Important links
 - [Live Tableau dashboard](https://public.tableau.com/views/MitronBank-AnalyticalInsights/LandingPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7337380574988292096/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
